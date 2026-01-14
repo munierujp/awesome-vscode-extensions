@@ -1,4 +1,6 @@
-# awesome-vscode-extension
+# awesome-vscode-extensions
+
+My favorite VS Code extensions
 
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Bracket Lens](https://marketplace.visualstudio.com/items?itemName=wraith13.bracket-lens)
